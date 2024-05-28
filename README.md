@@ -263,7 +263,6 @@
         <p>
           I am a Management of Technology Grad Student at Arizona State University. I enjoy managing and . Always strive to bring a best version of myself and give 100% to the work I do. 
 
-
           I have worked well in managing various projects leading to 100% stakeholder satisfaction. I have worked on different projects which includes Android, iOS and web application . I have around 2years of professional work experience in an startup which helped me strengthening my skills.
 
           I am passionate about deleviring finest project by managing whole project in an ethical manner.
